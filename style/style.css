@@ -10,7 +10,7 @@ h1 {
 
 #btn {
   box-shadow: rgb(0, 0, 0) 0px 0px 0px 2px, rgba(19, 200, 255, 0.733) 0px 0px 0px 9px, rgb(34, 174, 255) 0px 0px 0px 6px,
-    rgb(85, 255, 218) 0px 0px 0px 12px, rgb(85, 221, 255) 0px 0px 0px 15px;
+    rgb(85, 255, 218) 0px 0px 0px 12px;
 }
 /* #nav {
   box-shadow: rgb(85, 91, 255) 0px 0px 0px 2px, rgb(31, 193, 27) 0px 0px 0px 6px, rgb(255, 217, 19) 0px 0px 0px 9px,
@@ -18,7 +18,7 @@ h1 {
 } */
 .card {
   box-shadow: rgb(0, 0, 0) 0px 0px 0px 2px, rgba(19, 200, 255, 0.733) 0px 0px 0px 9px, rgb(34, 174, 255) 0px 0px 0px 6px,
-    rgb(85, 255, 218) 0px 0px 0px 12px, rgb(85, 221, 255) 0px 0px 0px 15px;
+    rgb(85, 255, 218) 0px 0px 0px 12px;
 }
 
 .container {
@@ -33,7 +33,7 @@ h1 {
   padding: 20px;
   border-radius: 10px;
   box-shadow: rgb(0, 0, 0) 0px 0px 0px 2px, rgba(19, 200, 255, 0.733) 0px 0px 0px 9px, rgb(34, 174, 255) 0px 0px 0px 6px,
-    rgb(85, 255, 218) 0px 0px 0px 12px, rgb(85, 221, 255) 0px 0px 0px 15px;
+    rgb(85, 255, 218) 0px 0px 0px 12px;
   color: #0056b3;
 }
 
