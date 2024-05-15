@@ -7,17 +7,18 @@ h1 {
   font-weight: 900;
   font-size: 50px;
 }
+
 #btn {
-  box-shadow: rgb(85, 91, 255) 0px 0px 0px 3px, rgb(31, 193, 27) 0px 0px 0px 6px, rgb(255, 217, 19) 0px 0px 0px 9px,
-    rgb(255, 156, 85) 0px 0px 0px 12px, rgb(255, 85, 85) 0px 0px 0px 15px;
+  box-shadow: rgb(0, 0, 0) 0px 0px 0px 2px, rgba(19, 200, 255, 0.733) 0px 0px 0px 9px, rgb(34, 174, 255) 0px 0px 0px 6px,
+    rgb(85, 255, 218) 0px 0px 0px 12px, rgb(85, 221, 255) 0px 0px 0px 15px;
 }
 /* #nav {
-  box-shadow: rgb(85, 91, 255) 0px 0px 0px 3px, rgb(31, 193, 27) 0px 0px 0px 6px, rgb(255, 217, 19) 0px 0px 0px 9px,
+  box-shadow: rgb(85, 91, 255) 0px 0px 0px 2px, rgb(31, 193, 27) 0px 0px 0px 6px, rgb(255, 217, 19) 0px 0px 0px 9px,
     rgb(255, 156, 85) 0px 0px 0px 12px, rgb(255, 85, 85) 0px 0px 0px 15px;
 } */
 .card {
-  box-shadow: rgb(85, 91, 255) 0px 0px 0px 3px, rgb(31, 193, 27) 0px 0px 0px 6px, rgb(255, 217, 19) 0px 0px 0px 9px,
-    rgb(255, 156, 85) 0px 0px 0px 12px, rgb(255, 85, 85) 0px 0px 0px 15px;
+  box-shadow: rgb(0, 0, 0) 0px 0px 0px 2px, rgba(19, 200, 255, 0.733) 0px 0px 0px 9px, rgb(34, 174, 255) 0px 0px 0px 6px,
+    rgb(85, 255, 218) 0px 0px 0px 12px, rgb(85, 221, 255) 0px 0px 0px 15px;
 }
 
 .container {
@@ -31,8 +32,8 @@ h1 {
   background-color: #ffffff;
   padding: 20px;
   border-radius: 10px;
-  box-shadow: rgb(85, 91, 255) 0px 0px 0px 3px, rgb(31, 193, 27) 0px 0px 0px 6px, rgb(255, 217, 19) 0px 0px 0px 9px,
-    rgb(255, 156, 85) 0px 0px 0px 12px, rgb(255, 85, 85) 0px 0px 0px 15px;
+  box-shadow: rgb(0, 0, 0) 0px 0px 0px 2px, rgba(19, 200, 255, 0.733) 0px 0px 0px 9px, rgb(34, 174, 255) 0px 0px 0px 6px,
+    rgb(85, 255, 218) 0px 0px 0px 12px, rgb(85, 221, 255) 0px 0px 0px 15px;
   color: #0056b3;
 }
 
@@ -78,7 +79,7 @@ button:hover {
   padding: 10px 20px;
   background-color: #888888;
   color: #ffffff;
-  border: none;
+  border: 2px solid black;
   border-radius: 20px;
   cursor: pointer;
 }

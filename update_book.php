@@ -30,7 +30,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 include_once __DIR__ . "/includes/index-top.php"; ?>
 <div class="container">
     <div class="form-container">
-        <h1>Modifica Libro</h1>
+        <h1>Modifica Il Libro</h1>
         <form method="post" action="">
             <input type="hidden" name="id" value="<?= $book['id'] ?>">
             <div class="mb-3">

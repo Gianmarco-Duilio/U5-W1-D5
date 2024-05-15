@@ -23,7 +23,7 @@ include_once __DIR__ . "/includes/index-top.php";
 
 <div class="container">
     <div class="form-container">
-        <h1>Aggiungi Libro</h1>
+        <h1>Aggiungi Nuovo Libro</h1>
         <form method="post" action="add_book.php">
             <label for="titolo">Titolo:</label><br>
             <input type="text" id="titolo" name="titolo"><br>
